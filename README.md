@@ -7,12 +7,12 @@ Course Topics: <br/>
 02. Inheritance - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/02.%20Inheritance/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/02.%20Inheritance/Exercise)<br/>
 03. Encapsulation - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/03.%20Encapsulation/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/03.%20Encapsulation/Exercise)<br/>
 04. Interfaces and Abstraction - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/04.%20Interfaces%20and%20Abstraction/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/04.%20Interfaces%20and%20Abstraction/Exercise)<br/>
-05. [Polymorphism]()<br/>
-06. [Solid]()<br/>
-07. [Reflection and Annotations]()<br/>
-08. [Exceptions and Error Handling]()<br/>
-09. [Debugging Techniques]()<br/>
-10. [Workshop - ]()<br/> 
-11. [Unit Testing]()<br/> 
-12. [Test Driven Development]()<br/> 
+05. Polymorphism - [Lab]() | [Exercise]()<br/>
+06. Solid - [Lab]() | [Exercise]()<br/>
+07. Reflection and Annotations - [Lab]() | [Exercise]()<br/>
+08. Exceptions and Error Handling - [Lab]() | [Exercise]()<br/>
+09. Debugging Techniques - [Lab]() | [Exercise]()<br/>
+10. [Workshop]()<br/> 
+11. Unit Testing - [Lab]() | [Exercise]()<br/> 
+12. Test Driven Development - [Lab]() | [Exercise]()<br/>
 * [Exams]()
