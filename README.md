@@ -7,8 +7,8 @@ Course Topics: <br/>
 02. Inheritance - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/02.%20Inheritance/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/02.%20Inheritance/Exercise)<br/>
 03. Encapsulation - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/03.%20Encapsulation/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/03.%20Encapsulation/Exercise)<br/>
 04. Interfaces and Abstraction - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/04.%20Interfaces%20and%20Abstraction/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/04.%20Interfaces%20and%20Abstraction/Exercise)<br/>
-05. Polymorphism - [Lab]() | [Exercise]()<br/>
-06. Solid - [Lab]() | [Exercise]()<br/>
+05. Polymorphism - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/05.%20Polymorphism/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/05.%20Polymorphism/Exercise)<br/>
+06. Solid - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/06.%20Solid/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/06.%20Solid/Exercise)<br/>
 07. Reflection and Annotations - [Lab]() | [Exercise]()<br/>
 08. Exceptions and Error Handling - [Lab]() | [Exercise]()<br/>
 09. Debugging Techniques - [Lab]() | [Exercise]()<br/>
