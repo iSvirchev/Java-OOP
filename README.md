@@ -10,8 +10,8 @@ Course Topics: <br/>
 05. Polymorphism - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/05.%20Polymorphism/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/05.%20Polymorphism/Exercise)<br/>
 06. Solid - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/06.%20Solid/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/06.%20Solid/Exercise)<br/>
 07. Reflection and Annotations - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/07.%20Reflection%20and%20Annotations/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/07.%20Reflection%20and%20Annotations/Exercise)<br/>
-08. Exceptions and Error Handling - [Lab]() | [Exercise]()<br/>
-09. Debugging Techniques - [Lab]() | [Exercise]()<br/>
+08. Exceptions and Error Handling - [Tasks](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/08.%20Exceptions%20and%20Error%20Handling)<br/>
+09. Debugging Techniques - [Tasks]()<br/>
 10. [Workshop]()<br/> 
 11. Unit Testing - [Lab]() | [Exercise]()<br/> 
 12. Test Driven Development - [Lab]() | [Exercise]()<br/>
