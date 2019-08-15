@@ -14,5 +14,5 @@ Course Topics: <br/>
 09. Debugging Techniques - Theory<br/>
 10. Workshop - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/10.%20Workshop/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/10.%20Workshop/Exercise)<br/>
 11. Unit Testing - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/11.%20Unit%20Testing/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/11.%20Unit%20Testing/Exercise)<br/> 
-12. Test Driven Development - [Lab]() | [Exercise]()<br/>
+12. Test Driven Development - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/12.%20Test%20Driven%20Development/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/12.%20Test%20Driven%20Development/Exercise)<br/>
 * [Exams](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/Exams)
