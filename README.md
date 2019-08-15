@@ -15,4 +15,4 @@ Course Topics: <br/>
 10. Workshop - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/10.%20Workshop/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/10.%20Workshop/Exercise)<br/>
 11. Unit Testing - [Lab](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/11.%20Unit%20Testing/Lab) | [Exercise](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/11.%20Unit%20Testing/Exercise)<br/> 
 12. Test Driven Development - [Lab]() | [Exercise]()<br/>
-* [Exams]()
+* [Exams](https://github.com/iSvirchev/Java-OOP/tree/master/Courses/Exams)
